@@ -1,0 +1,26 @@
+.bg-header {
+    background-color: rgb(48, 47, 47);
+}
+
+.logo span {
+    color: orangered;
+    border-radius: 2px;
+}
+
+.logo a {
+    font-size: 28px;
+    color: white !important;
+    font-weight: 600;
+}
+
+.nav-item a {
+    color: white !important;
+}
+
+.nav-item a:hover {
+    color: orangered !important;
+}
+
+.active {
+    color: orangered;
+}

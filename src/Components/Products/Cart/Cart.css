@@ -1,0 +1,10 @@
+.cart {
+    text-align: start;
+}
+
+.order span {
+    background: orange;
+    display: block;
+    height: 2px;
+    width: 100%;
+}
